@@ -1,4 +1,4 @@
-## Pozdrav 👋
+## Ahoy o/
 
 U nastavku možete pronaći repozitorije s materijalima za kolegije na kojima držim vježbe na [FIPU](https://fipu.unipu.hr/).
 
